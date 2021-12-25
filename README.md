@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.net framework**
 
-- 💬 Ask me about **C#, C++**
+- 💬 Ask me about **C#, C++, Java**
 
 - 📫 How to reach me **msashoyeb@gmail.com**
 
