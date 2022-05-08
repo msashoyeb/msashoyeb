@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msashoyeb&label=Profile%20views&color=0e75b6&style=flat" alt="msashoyeb" /> </p>
 
-- 🌱 I’m currently learning **Asp.net Core MVC**
+<a href="https://github.com/antonkomarev/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=msashoyeb&style=for-the-badge"> </a>
 
-- 💬 Ask me about **C#, C++, Java, HTML, CSS, Javascript**
 
 - 📫 How to reach me on email: **msashoyeb@gmail.com**
 
