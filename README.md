@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msashoyeb&label=Profile%20views&color=0e75b6&style=flat" alt="msashoyeb" /> </p>
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=msashoyeb&style=for-the-badge"> </a>
+<a href="https://github.com/msashoyeb/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=msashoyeb&style=for-the-badge"> </a>
 
 
 - 📫 How to reach me on email: **msashoyeb@gmail.com**
