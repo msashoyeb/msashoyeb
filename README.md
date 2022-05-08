@@ -1,14 +1,7 @@
-<h1 align="center">Hi 👋, I'm Showyeab Ahmed</h1>
-<h3 align="center">A programmer from Bangladesh</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msashoyeb&label=Profile%20views&color=0e75b6&style=flat" alt="msashoyeb" /> </p>
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
-</a>
 
-
-- 📫 How to reach me on email: **msashoyeb@gmail.com**
+- Reach me on email: **msashoyeb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
